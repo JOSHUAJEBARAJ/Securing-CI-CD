@@ -9,7 +9,9 @@ The Main Motivation of this project is to learn how to implement the Security us
 
 For Deploying the application I took Simple [Python-application](https://github.com/we45/Vulnerable-Flask-App) developed by we45 
 
-The complete code for the deployement can be found at [My-GithubRepo](https://github.com/JOSHUAJEBARAJ/Vulnerable-Flask-App)
+The complete code for the deployment can be found at [My-GithubRepo](https://github.com/JOSHUAJEBARAJ/Vulnerable-Flask-App)
+
+The Guide can be found  (here)[https://github.com/JOSHUAJEBARAJ/Securing-CI-CD]
 
 The Project covers the below Topics
 
