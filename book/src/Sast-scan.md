@@ -1,6 +1,6 @@
 # SAST SCAN
 
-In this SAST scan we are going to scan through the application source code for security flaws
+In this SAST phase we are going to scan through the application source code for security flaws
 
 Since the application is based on **Python** I am going to use the tool called [bandit](https://pypi.org/project/bandit/)
 

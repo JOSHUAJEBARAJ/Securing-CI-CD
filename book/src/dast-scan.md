@@ -2,10 +2,10 @@
 
 
 - DAST stands for Dynamic  application security testing 
-- It is the  methodology for finding the security flaws in the application when actually running 
+- It is the  methodology for finding the security flaws in the application when  running 
 - It is **Black-box** Security testing methodology
 
-For performing the DAST I am going to use the ZAP to scan the web-application To provision the Infra I am going to use the Terraform and Spin up the Simple droplet and deploy the application and run the test against it and tear down the Infra structure
+For performing the DAST I am going to use the ZAP to scan the web-application for security flaws. To provision the Infra I am going to use the Terraform and spin up the simple server and deploy the application and run the zap against the application deployed on the server and tear down the Infrastructure after the scanning is done
 
 ![DAST](2021-05-16-01-51-26.png)
 

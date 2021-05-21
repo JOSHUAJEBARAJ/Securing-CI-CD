@@ -1,14 +1,14 @@
 # Container Security
 
-Now days all application are deployed in the containerized manner We have to make sure the container is also very secure
+Now days most applications are deployed in a containerized manner We have to make sure the container that used for deploying the application is also secure
 
-To secure  the Container I am going to use the two tools
+To Secure the Docker container I am going to use the below two tools
 
 
 | Tools       | Uses                                                 |
 |-------------|------------------------------------------------------|
-| hadolint    | Scans the Docker file and suggest the best practices |
-| docker scan | Scan for security flaws in the docker Image          |
+| hadolint    | Scans the Dockerfile and suggest the best practices for building the Docker container from the Dockerfile securely|
+| docker scan | Scan for security flaws in the Docker Image  that created from the Dockerfile        |
 
 
 ## Github Actions

@@ -1,6 +1,7 @@
 ## Infrastructure security
 
-Even though we tends to use the containers for deployment we have to make sure the underlying Infrastructure is secure .To harden the underlying Infrastructure I am going to use `Ansible-role` which help to harden the underlying Infrastructure
+Even though we use the containers for deployment we have to make sure the underlying infrastructure is also secure.To harden the underlying Infrastructure I am going to use `Ansible`. Ansible is configuration management tool that help to configure the servers via code. I am going to use `Ansible-role` to perform the set of task to harden the underlying Infrastructure
+
 
 ## Github Actions
 
